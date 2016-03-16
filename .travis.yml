@@ -7,4 +7,4 @@ install:
 script:
   - nuget restore
   - xbuild /p:Configuration=Debug
-  - mono ./packages/NUnit.ConsoleRunner.3.2.0/tools/nunit3-console.exe fbxdiff.Tests/bin/Debug/fbxdiff.Tests.dll
+  - mono ./packages/NUnit.ConsoleRunner.3.2.0/tools/nunit3-console.exe FbxDiff.Tests/bin/Debug/FbxDiff.Tests.dll

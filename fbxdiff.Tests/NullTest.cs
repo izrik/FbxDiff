@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
 
-namespace fbxdiff.Tests
+namespace FbxDiff.Tests
 {
     [TestFixture]
     public class NullTest

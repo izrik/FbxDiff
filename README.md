@@ -1,2 +1,2 @@
-# fbxdiff
+# FbxDiff
 A command-line application for comparing FBX files

@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System;
 
-[assembly: AssemblyTitle("fbxdiff.Tests")]
+[assembly: AssemblyTitle("FbxDiff.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]

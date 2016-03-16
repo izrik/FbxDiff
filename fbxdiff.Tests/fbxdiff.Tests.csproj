@@ -5,8 +5,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0CE47018-936E-458F-92A3-FBE4F9E9E1B6}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>fbxdiff.Tests</RootNamespace>
-    <AssemblyName>fbxdiff.Tests</AssemblyName>
+    <RootNamespace>FbxDiff.Tests</RootNamespace>
+    <AssemblyName>FbxDiff.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -42,9 +42,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\fbxdiff.csproj">
+    <ProjectReference Include="..\FbxDiff.csproj">
       <Project>{77A7D871-75EA-41EA-BBBD-8BFB191BCD63}</Project>
-      <Name>fbxdiff</Name>
+      <Name>FbxDiff</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

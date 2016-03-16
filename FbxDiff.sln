@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fbxdiff", "fbxdiff.csproj", "{77A7D871-75EA-41EA-BBBD-8BFB191BCD63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FbxDiff", "FbxDiff.csproj", "{77A7D871-75EA-41EA-BBBD-8BFB191BCD63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fbxdiff.Tests", "fbxdiff.Tests\fbxdiff.Tests.csproj", "{0CE47018-936E-458F-92A3-FBE4F9E9E1B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FbxDiff.Tests", "FbxDiff.Tests\FbxDiff.Tests.csproj", "{0CE47018-936E-458F-92A3-FBE4F9E9E1B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

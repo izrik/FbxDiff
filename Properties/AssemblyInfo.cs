@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using System;
 
-[assembly: AssemblyTitle("fbxdiff")]
+[assembly: AssemblyTitle("FbxDiff")]
 [assembly: AssemblyDescription("A command-line application for comparing FBX files")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
